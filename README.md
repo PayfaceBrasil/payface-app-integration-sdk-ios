@@ -42,7 +42,7 @@ Existem dois framework no repositório: um caso você esteja compilando seu proj
 
 ## Relatar um Problema
 
-Se você encontrar um problema com o Payface App SDK Android, pesquise as [issues existentes](https://github.com/PayfaceBrasil/payface-app-integration-sdk-ios/issues)
+Se você encontrar um problema com o Payface App SDK iOS, pesquise as [issues existentes](https://github.com/PayfaceBrasil/payface-app-integration-sdk-ios/issues)
 e tente se certificar de que seu problema ainda não existe antes de [abrir uma nova issue](https://github.com/PayfaceBrasil/payface-app-integration-sdk-ios/issues/new). É útil incluir a versão do SDK, ambiente e sistema operacional que você está usando. Inclua também um stack trace e os passos necessários para reproduzir o cenário.
 
 ## Licença
