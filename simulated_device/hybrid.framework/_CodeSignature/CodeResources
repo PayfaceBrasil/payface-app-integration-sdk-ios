@@ -14,7 +14,7 @@
 		</data>
 		<key>HybridViewController.nib</key>
 		<data>
-		yGsd0qvAS0hb7QOPOFT1ClbVPbQ=
+		C1CVyYCV/cI5O/OOF2V1dMtRXr4=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		lgwfjIWDXRe+MBg79HXIGzpHDPc=
+		iS9QGtglrHODq/F0DhsAjPMpQ8c=
 		</data>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		lgwfjIWDXRe+MBg79HXIGzpHDPc=
+		iS9QGtglrHODq/F0DhsAjPMpQ8c=
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GNmfTXVkhldMvwDtSGE7uXy56yM=
+		2Z5P7gWbkI7mUu2MIg0/O2fFPnw=
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		GNmfTXVkhldMvwDtSGE7uXy56yM=
+		2Z5P7gWbkI7mUu2MIg0/O2fFPnw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,21 +69,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuVEICU1XaU5IjCXUDD4wcBA6P8QzvVenwfei8id0WU=
+			bdI68zAzr7pbpnCKxPfmYTwCFJ7mBot9J135GtG+HKo=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Ub8ftVKRcUmvLrJ96EhI6bVKga+s4ZZIp7G8BmEcVc=
+			ePDnusHm8LFD0q238NoBSXMBWiPMKYA4bLjOSKXT3Qs=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Ub8ftVKRcUmvLrJ96EhI6bVKga+s4ZZIp7G8BmEcVc=
+			ePDnusHm8LFD0q238NoBSXMBWiPMKYA4bLjOSKXT3Qs=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			si9lCvsHZ9+OYab60QR0KdioVmOyam/nt4tGMbcWhL8=
+			Rit6366/+8qL+MtuUWWuMfvni20vso3kwcvUb+Dzl2E=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/x86_64.swiftdoc</key>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			si9lCvsHZ9+OYab60QR0KdioVmOyam/nt4tGMbcWhL8=
+			Rit6366/+8qL+MtuUWWuMfvni20vso3kwcvUb+Dzl2E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

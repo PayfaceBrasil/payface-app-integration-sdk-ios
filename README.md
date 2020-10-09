@@ -29,11 +29,18 @@ import hybrid
 .
 .
 // Código que abre a ViewController do Payface
-present(HybridViewController(partner: "partner", cpf: "cpf", name: "nome", cellphone: "celular"), animated: true, completion: nil)
+present(HybridViewController(partner: "partner", cpf: "cpf", name: "nome", cellphone: "celular", environment: 1), animated: true, completion: nil)
 .
 .
 
 ```
+Observações
+
+1. Para utilizar os pârametros do usuário, é necessário preencher pelo menos o CPF.
+
+2. Para mudar o ambiente para sandbox, trocar o valor de environment para diferente de 1. Se o valor não for definido, o ambiente padrão é de produção.
+
+
 ## Serviços Suportados
 
 Acesso ao app web Payface com utilização da câmera nativa IOS. 
