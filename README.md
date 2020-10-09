@@ -1,4 +1,4 @@
-# Payface App SDK Android
+# Payface App SDK iOS
 
 Payface App SDK para IOS fornece um SDK nativo para integração com o Payface App. Você pode usar o SDK para integrar o Payface nos seus aplicativos personalizados.
 
