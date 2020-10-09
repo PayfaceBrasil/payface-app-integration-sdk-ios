@@ -1,0 +1,11 @@
+framework module hybrid {
+  umbrella header "hybrid.h"
+
+  export *
+  module * { export * }
+}
+
+module hybrid.Swift {
+    header "hybrid-Swift.h"
+    requires objc
+}
