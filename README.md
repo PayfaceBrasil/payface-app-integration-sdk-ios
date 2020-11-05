@@ -20,18 +20,45 @@ No **Project Navigator** selecione a raiz do projeto, abrirá a painel de config
 
 **Integração no código:**
 
-No *ViewController* 
+No seu *ViewController* adicione o ViewController híbrido. 
 
 ```
 import hybrid
 
 .
 .
-.
-// Código que abre a ViewController do Payface
-present(HybridViewController(partner: "partner", cpf: "cpf", name: "nome", cellphone: "celular", environment: 1), animated: true, completion: nil)
-.
-.
+
+let hybridFrame = HybridViewController()
+
+override func viewDidLoad() {
+    super.viewDidLoad()
+    .
+    .
+    .
+    addChidView()
+}
+
+func addChidView() {
+    hybridFrame.partner = "partner"
+    hybridFrame.cpf = "cpf"
+    hybridFrame.name = "nome"
+    hybridFrame.cellphone = "cellphone"
+    hybridFrame.environment = 1
+    
+    addChild(hybridFrame)
+    view.addSubview(hybridFrame.view)
+    hybridFrame.didMove(toParent: self)
+    setViewConstrain()
+}
+
+func setViewConstrain() {
+    hybridFrame.view.translatesAutoresizingMaskIntoConstraints = false
+    hybridFrame.view.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor, constant: -20).isActive = true
+    hybridFrame.view.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20).isActive = true
+    hybridFrame.view.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20).isActive = true
+    let standardSpacing: CGFloat = 8.0
+    hybridFrame.view.topAnchor.constraint(equalTo: view.topAnchor, constant: standardSpacing).isActive = true
+}
 
 ```
 Observações
