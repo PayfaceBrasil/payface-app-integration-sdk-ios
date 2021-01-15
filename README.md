@@ -43,7 +43,7 @@ func addChidView() {
     hybridFrame.cpf = "cpf"
     hybridFrame.name = "nome"
     hybridFrame.cellphone = "cellphone"
-    hybridFrame.environment = 1
+    hybridFrame.environment = HybridViewController.Environment.ALPHA
     
     addChild(hybridFrame)
     view.addSubview(hybridFrame.view)
@@ -65,7 +65,7 @@ Observações
 
 1. Para utilizar os pârametros do usuário, é necessário preencher pelo menos o CPF.
 
-2. Para mudar o ambiente para sandbox, trocar o valor de environment para diferente de 1. Se o valor não for definido, o ambiente padrão é de produção.
+2. Para mudar o ambiente utilize HybridViewController.Environment.PRODUCTION ou HybridViewController.Environment.SANDBOX
 
 
 ## Serviços Suportados

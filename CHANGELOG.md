@@ -5,3 +5,6 @@
 * Atualização para camera personalizada
 * Detector de rosto
 * Impedir zoom no webview
+* Impedir seleção de imagem
+* Adição máscara de localização do rosto na câmera
+* Tratamento do resolução da imagem.
