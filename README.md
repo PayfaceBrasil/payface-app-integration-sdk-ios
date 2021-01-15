@@ -43,7 +43,7 @@ func addChidView() {
     hybridFrame.cpf = "cpf"
     hybridFrame.name = "nome"
     hybridFrame.cellphone = "cellphone"
-    hybridFrame.environment = HybridViewController.Environment.ALPHA
+    hybridFrame.environment = HybridViewController.Environment.PRODUCTION
     
     addChild(hybridFrame)
     view.addSubview(hybridFrame.view)
