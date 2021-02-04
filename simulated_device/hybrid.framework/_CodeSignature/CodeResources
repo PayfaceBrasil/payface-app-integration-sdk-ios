@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		2DUxan/JRQy8NJtSqcooOH7Rdx8=
+		Gk/XK9Vubfk9lmyUd1KSC6AboFg=
 		</data>
 		<key>Headers/hybrid-Swift.h</key>
 		<data>
@@ -18,19 +18,19 @@
 		</data>
 		<key>HybridViewController.nib</key>
 		<data>
-		4JaaKMrZ9Ik/B1SiwIDeT4mmQx8=
+		ITMmLd8Tif0eqQhpAKLu7uuvod0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LQNz1Um67rPGAnBhA2GRIvxeInw=
+		rVptj23qiUwYtd/YjGnt6n6Ipmk=
 		</data>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		gi5FRs4XInsMCffSBuaHVUJjcH8=
+		umVuJQTbMp9K2/mQvHNO2AQSD4g=
 		</data>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		gi5FRs4XInsMCffSBuaHVUJjcH8=
+		umVuJQTbMp9K2/mQvHNO2AQSD4g=
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sOULZUAMru5+zAk3P4YM/lpk8M4=
+		DJNgZ6+/dgeHzjX7DJymBbdx7w0=
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/hybrid.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		sOULZUAMru5+zAk3P4YM/lpk8M4=
+		DJNgZ6+/dgeHzjX7DJymBbdx7w0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>PayfaceCameraViewController.nib</key>
 		<data>
-		3dC9aTMGqFCnUH3CsESTAIX5AGo=
+		etQ4td6Q1Tem47lI6AqR+J52zNY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nv62bEvfBS1OeMWn5Ehl03Wr4471VWgk0ET9zufq4mQ=
+			4ZxHjL3jp9nFDe4VR7WM6dU5F6ocaEQdTUCMSHpXa90=
 			</data>
 		</dict>
 		<key>Headers/hybrid-Swift.h</key>
@@ -84,21 +84,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vr/6o5HtPDayVBEOMDbEWt4zAfoH0mNaIQT1zfGALoE=
+			u34UUfXJBGZ2ITon2OGw9Y+MkzQLZ/VIicWeSjR+cgY=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nb20BcL44fdCqu0/QWKXBXhqR9sjd0c96U8WsIw+vZA=
+			kQBa8GSPVLkuynHZAu2vDI2m0F67Xo5PY2+tkmwjMCg=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nb20BcL44fdCqu0/QWKXBXhqR9sjd0c96U8WsIw+vZA=
+			kQBa8GSPVLkuynHZAu2vDI2m0F67Xo5PY2+tkmwjMCg=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8u/vTH9RBUjmEjB/PZnvGm4TMZlY1+f5YeqoF4zFek8=
+			qlfNiwisLeuXgforDFrqpcZbE3a+T3J+XbIPBCCGel0=
 			</data>
 		</dict>
 		<key>Modules/hybrid.swiftmodule/x86_64.swiftdoc</key>
@@ -126,7 +126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8u/vTH9RBUjmEjB/PZnvGm4TMZlY1+f5YeqoF4zFek8=
+			qlfNiwisLeuXgforDFrqpcZbE3a+T3J+XbIPBCCGel0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KLO6gkbgceFnwpWFKGTX0M0udPg+rOYqOokXsJ56dx0=
+			4xkBlRd9wWvDLhv3lFO+W29n/pEdL+DatpgMvbzSBls=
 			</data>
 		</dict>
 	</dict>

@@ -11,3 +11,6 @@
 
 ## Versão 1.2
 * Abrir link externo em outro frame.
+
+## Versão 1.3
+* Correção de problema na permissão de acesso a câmera.
