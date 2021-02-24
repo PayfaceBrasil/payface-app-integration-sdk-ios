@@ -14,3 +14,6 @@
 
 ## Versão 1.3
 * Correção de problema na permissão de acesso a câmera.
+
+## Versão 1.4
+* Ajuste para utilização no iOS 11.
