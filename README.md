@@ -7,7 +7,7 @@ Para notas de lançamento, consulte [CHANGELOG.md](https://github.com/PayfaceBra
 ## Requisitos
 
 **Versão**
-Target 13
+Target 11
 
 
 ## Como Usar
