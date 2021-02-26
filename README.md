@@ -18,6 +18,8 @@ Adicionar permissão de utilização da camera(Privacy - Camera Usage Descriptio
 
 No **Project Navigator** selecione a raiz do projeto, abrirá a painel de configuração. Selecione a aba **General**. Procure por **Framework, Libraries, and Embedded Content**. Adicione o framework da **hybrid.framework**.
 
+No painel de configuração, selecione seu target e depois **Building Setting**. Na opção de visualização seleciona **all**. Procure **Enable Bitcode** e configure como **No**.
+
 **Integração no código:**
 
 No seu *ViewController* adicione o ViewController híbrido. 
