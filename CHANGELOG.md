@@ -17,3 +17,6 @@
 
 ## Versão 1.4
 * Ajuste para utilização no iOS 11.
+
+## Versão 1.4.1
+* Ajuste câmera
