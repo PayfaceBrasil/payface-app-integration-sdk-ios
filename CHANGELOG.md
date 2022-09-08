@@ -20,3 +20,9 @@
 
 ## Versão 1.4.1
 * Ajuste câmera
+
+## Versão 1.5
+* Controle do teclado
+
+## Versão 1.6
+* Compilação para versão xCode 13.4.1
