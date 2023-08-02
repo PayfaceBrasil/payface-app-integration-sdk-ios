@@ -6,6 +6,6 @@ framework module hybrid {
 }
 
 module hybrid.Swift {
-    header "hybrid-Swift.h"
-    requires objc
+  header "hybrid-Swift.h"
+  requires objc
 }
