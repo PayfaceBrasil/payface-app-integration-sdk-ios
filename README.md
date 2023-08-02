@@ -7,7 +7,7 @@ Para notas de lançamento, consulte [CHANGELOG.md](https://github.com/PayfaceBra
 ## Requisitos
 
 **Versão**
-XCode 13.4.1
+XCode 14.3.1 (14E300c)
 Target 11
 
 

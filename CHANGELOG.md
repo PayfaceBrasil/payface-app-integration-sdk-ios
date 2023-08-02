@@ -26,3 +26,7 @@
 
 ## Versão 1.6
 * Compilação para versão xCode 13.4.1
+
+## Versão 1.7
+* Compilação para versão XCode 14.3.1
+* Troca do layout da camera.
